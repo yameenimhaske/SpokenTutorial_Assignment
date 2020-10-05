@@ -6,7 +6,7 @@
         $message = $_POST['message'];
 
         if($toemail && $message){
-            $to = 'mhaskeyamma18it@student.mes.ac.in';
+            $to = 'komalmhaske3011@gmail.com';
             $subject = $subject;
             $headers = "From: yameenimhaske1@gmail.com";
             $body = $message;
